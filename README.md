@@ -1,6 +1,6 @@
 # Hi, I'm Pablo Pérez 👋
 
-![Pablo Pérez - pablopsdigital.com](img/github-header.png)
+![Pablo Pérez - pablopsdigital.com](https://github.com/pablopsdigital/pablopsdigital/blob/master/img/github-header.png)
 
 I`m **Product Designer and Software Developer** who is passionate about combining design and development to create digital products that people like. I combine these _two passions_ 📐👨🏽‍💻 across different multimedia disciplines, mainly _UX-UI_, _3d development tools_, and _web development_.
 
